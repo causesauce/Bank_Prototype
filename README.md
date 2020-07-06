@@ -18,3 +18,10 @@ by 200, if the amount is negative).
 	JohnN MaryM 500
 means that John is sending money to Marry, so the John's balance is decreased
 by 500 and that of Mary increased by 500.
+
+
+The data in any line may be erroneous (for example, its format does not correspond
+to any of the formats described above, or there are insufficient funds on an account for
+a given withdrawal or transfer etc.); if this happens, the offending line is ignored and
+an appropriate information is appended to a log filele (the offending line, its number
+in the input file and a description of the reason of the failure).
