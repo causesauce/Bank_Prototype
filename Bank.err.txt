@@ -1,0 +1,12 @@
+Line 	3 : MaryB Mary Coe 200
+ 	Error: Unique ID error
+Line 	4 : JohnD MaryB 1100
+ 	Error: Insufficient funds
+Line 	6 : JohnM MaryB 900
+ 	Error: Nonexistent account is mentioned
+Line 	10 : dwqdqjwoo
+ 	Error: Entry inappropriate format 
+Line 	11 : ADRIAN MOLODEC
+ 	Error: Entry inappropriate format 
+Line 	12 : KekD Kek Dew -20
+ 	Error: Entry inappropriate format 
