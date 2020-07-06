@@ -1,4 +1,8 @@
 # Bank_Prototype
+
+As a project I had to imitate a bank system concept for a small bunch of clients ( no DB included ). 
+
+
 It is a program handling bank accounts. The program reads a file consisting of
 lines of three kinds:
 
