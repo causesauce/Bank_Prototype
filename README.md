@@ -4,14 +4,14 @@ lines of three kinds:
 
 1. Representing creation of a new account:
 	JohnN John Novak 2000
-New account is created with identier JohnN, owner John Novak and initial
+New account is created with identifier JohnN, owner John Novak and initial
 deposit 2000.
 
 2. Representing deposit/withdrawal:
 	JohnN 500
 or
 	JohnN -200
-The balance of the account with identier JohnN is increased by 500 (decreased
+The balance of the account with identifier JohnN is increased by 500 (decreased
 by 200, if the amount is negative).
 
 3. Representing a transfer between accounts:
